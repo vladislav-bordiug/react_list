@@ -1,0 +1,16 @@
+.min-height-100vh {
+  min-height: 100vh;
+}
+
+.otstupsort {
+  padding-bottom: 10px;
+}
+
+.otstuplogotext {
+  padding-left: 10px;
+}
+
+.empty {
+  height: 90px; 
+  width: 100%; 
+}
