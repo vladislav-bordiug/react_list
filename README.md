@@ -1,6 +1,6 @@
 # Проект: Список топ 250 фильмов IMDb
 
-## Видеопрезентация
+## Видео
 https://github.com/user-attachments/assets/b348bedf-1267-4423-a9ab-970d594faf13
 
 ## Описание
