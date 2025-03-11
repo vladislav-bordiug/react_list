@@ -1,18 +1,18 @@
-# Проект: Список топ 250 фильмов IMDb
+# Project: Top 250 IMDb Movies List
 
-## Видео
+## Video
 https://github.com/user-attachments/assets/b348bedf-1267-4423-a9ab-970d594faf13
 
-## Описание
-Проект отображает топ 250 фильмов IMDb с возможностью выбора параметров сортировки и направления сортировки, реализован плавный скролл (при прокрутке страницы до конца отображается "Loading..." и индикатор загрузки - спиннер, а потом после прогрузки отображаются следующие фильмы).
+## Description
+The project displays the top 250 IMDb movies with the ability to choose sorting parameters and sorting direction. Smooth scrolling is implemented (when scrolling to the end of the page, a "Loading..." message and a spinner indicator are shown, and after loading, the next movies are displayed).
 
-## Технологии
-- Для **разработки** использовался Vite + React TS.
+## Technologies
+- **Development:** Vite + React TS.
 
-- Для **управления стором** использовался MobX.
+- **State Management:** MobX.
 
-- Для **отображения списка и элементов интерфейса** использовался Bootstrap, т.к. уже имел опыт работы с ним и он позволяет удобно создавать сетку элементов.
+- **UI Components:** Bootstrap (chosen due to prior experience and its convenient grid layout capabilities).
 
-## Покрытие тестами
-Все тесты доступны в [App.test.tsx](src/App.test.tsx)
+## Test Coverage
+All tests can be found in [App.test.tsx](src/App.test.tsx)
 ![alt text](image.png)
